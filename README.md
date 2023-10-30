@@ -33,11 +33,9 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
+    <!-- Development Tools -->
+    <p><strong>Development Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-</div><br>
+       <img src="https://img.shields.io/badge/EclipseIDE-F80000?style=for-the-badge&logo=EclipseIDE&logoColor=#2C2255">  
+    </div>
 </div>
