@@ -12,12 +12,12 @@
 * 😎 끝없이 노력하는 열정과 근성을 가진 사람
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeonO&show_icons=true&theme=radical)
-## 🔨 Once I've used 🔨
+## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+       <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -36,7 +36,7 @@
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
-       <img src="https://img.shields.io/badge/EclipseIDE-F80000?style=for-the-badge&logo=EclipseIDE&logoColor=white">
-       <img src="https://img.shields.io/badge/VisualStudioCode-F80000?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+       <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
     </div>
 </div>
