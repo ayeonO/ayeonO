@@ -36,6 +36,7 @@
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
-       <img src="https://img.shields.io/badge/EclipseIDE-#2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=#2C2255"> 
+       <img src="https://img.shields.io/badge/EclipseIDE-F80000?style=for-the-badge&logo=EclipseIDE&logoColor=white">
+       <img src="https://img.shields.io/badge/VisualStudioCode-F80000?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
     </div>
 </div>
