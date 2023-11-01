@@ -5,7 +5,6 @@
 
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/AYEON_O-ca409d67971b48a8a4499c9e7387e943)](https://www.notion.so/AYEON_O-ca409d67971b48a8a4499c9e7387e943)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayeon9175@gmail.com)](mailto:ayeon9175@gmail.com)
 * 💻 목표를 위해 항상 노력하며 꾸준하게 성장하는 오아연 입니다. 
 * 🎨 유저를 생각하며 디자인과 사이트의 편리함에 대해 관심이 많습니다.
